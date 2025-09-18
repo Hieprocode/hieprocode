@@ -6,7 +6,7 @@
 - 🚀 Mục tiêu: Trở thành Software Engineer chuyên nghiệp
 
 ## 🛠️ Kỹ năng
-- Ngôn ngữ: Dart, Java, JavaScript, Python
+- Ngôn ngữ: Dart, Java, JavaScript, 
 - Framework: Flutter, Node.js, React
 - Database: MySQL, MongoDB
 - Tools: Git, VS Code, Docker
