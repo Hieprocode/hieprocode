@@ -13,6 +13,7 @@
 
 ## 📂 Dự án nổi bật
 - [📱 Web xem phim](https://do-an-web-xem-phim.vercel.app/)
+- [📱app thoi tiet](https://github.com/Hieprocode/weather_app.git)
 
 ## 📫 Liên hệ
 - Email: tranmanhhieu2004@gmail.com  
