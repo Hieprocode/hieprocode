@@ -14,12 +14,6 @@
 ## 📂 Dự án nổi bật
 - [📱 Web xem phim](https://do-an-web-xem-phim.vercel.app/)
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
-
 ## 📫 Liên hệ
 - Email: tranmanhhieu2004@gmail.com  
 - LinkedIn: [linkedin.com/in/hieunguyen](https://linkedin.com/in/plezz14)  
